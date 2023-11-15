@@ -1,2 +1,2 @@
 # hello-world
-repo to learn how to use git
+the sussiest of bakas went to the store, he never came back
