@@ -1,4 +1,4 @@
 # hello-world
-the sussiest of bakas went to the store, he never came back
+Forgive english, I am Russia
 
 hello test
